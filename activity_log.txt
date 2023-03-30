@@ -146,3 +146,4 @@ Activity at 2023-03-24T11:01:00: Test: add unit tests for edge cases
 Activity at 2023-03-24T12:15:00: Refactor: simplify data transformation pipeline
 Activity at 2023-03-27T15:47:00: Docs: update API documentation and examples
 Activity at 2023-03-29T15:30:00: Docs: update API documentation and examples
+Activity at 2023-03-30T17:37:00: Docs: update API documentation and examples
