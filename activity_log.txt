@@ -173,3 +173,4 @@ Activity at 2023-04-10T20:09:00: Test: add unit tests for edge cases
 Activity at 2023-04-10T14:18:00: Docs: update API documentation and examples
 Activity at 2023-04-11T13:19:00: Chore: update dependencies and build scripts
 Activity at 2023-04-11T11:37:00: Test: add unit tests for edge cases
+Activity at 2023-04-13T15:31:00: Docs: update API documentation and examples
