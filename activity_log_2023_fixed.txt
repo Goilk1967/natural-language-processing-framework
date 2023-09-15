@@ -38,3 +38,4 @@ Fixed Activity at 2023-09-13T12:51:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-09-13T12:55:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-09-13T21:15:00: Optimize: data loading strategy
 Fixed Activity at 2023-09-13T09:40:00: Style: improve code readability and formatting
+Fixed Activity at 2023-09-14T21:12:00: Chore: update dependencies and build scripts
