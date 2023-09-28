@@ -82,3 +82,4 @@ Fixed Activity at 2023-09-27T15:32:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-09-27T11:41:00: Improve: logging and monitoring system
 Fixed Activity at 2023-09-28T11:48:00: Update: internal model parameters
 Fixed Activity at 2023-09-28T15:14:00: Update: internal model parameters
+Fixed Activity at 2023-09-28T18:16:00: Docs: update API documentation and examples
