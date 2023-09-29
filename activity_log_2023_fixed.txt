@@ -85,3 +85,4 @@ Fixed Activity at 2023-09-28T15:14:00: Update: internal model parameters
 Fixed Activity at 2023-09-28T18:16:00: Docs: update API documentation and examples
 Fixed Activity at 2023-09-28T12:08:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-09-28T20:38:00: Refactor: optimize performance in core module
+Fixed Activity at 2023-09-28T21:47:00: Optimize: data loading strategy
