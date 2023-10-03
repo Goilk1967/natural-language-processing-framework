@@ -97,3 +97,4 @@ Fixed Activity at 2023-10-02T18:57:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-10-02T11:48:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-10-03T10:49:00: Refactor: optimize performance in core module
 Fixed Activity at 2023-10-03T19:06:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2023-10-03T09:15:00: Test: add unit tests for edge cases
