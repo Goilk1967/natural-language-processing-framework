@@ -124,3 +124,4 @@ Fixed Activity at 2023-10-09T17:31:00: Refactor: simplify data transformation pi
 Fixed Activity at 2023-10-10T14:15:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-10-10T21:15:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-10-10T20:06:00: Update: internal model parameters
+Fixed Activity at 2023-10-10T13:32:00: Test: add unit tests for edge cases
