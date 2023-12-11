@@ -326,3 +326,4 @@ Fixed Activity at 2023-12-08T12:16:00: Update: internal model parameters
 Fixed Activity at 2023-12-08T15:59:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-12-11T10:06:00: Docs: update API documentation and examples
 Fixed Activity at 2023-12-11T12:47:00: Refactor: optimize performance in core module
+Fixed Activity at 2023-12-11T17:15:00: Test: add unit tests for edge cases
