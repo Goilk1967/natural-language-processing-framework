@@ -359,3 +359,4 @@ Fixed Activity at 2023-12-19T21:54:00: Style: improve code readability and forma
 Fixed Activity at 2023-12-19T21:40:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-12-19T14:07:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-12-19T19:25:00: Style: improve code readability and formatting
+Fixed Activity at 2023-12-19T20:52:00: Fix: resolve memory leak in inference engine
