@@ -390,3 +390,4 @@ Fixed Activity at 2023-12-28T18:45:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-12-28T13:08:00: Test: add unit tests for edge cases
 Fixed Activity at 2023-12-28T11:01:00: Refactor: optimize performance in core module
 Fixed Activity at 2023-12-28T16:16:00: Test: add unit tests for edge cases
+Fixed Activity at 2023-12-28T16:18:00: Test: add unit tests for edge cases
