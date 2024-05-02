@@ -1,3 +1,4 @@
 Fixed Activity at 2024-05-01T16:15:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-01T15:10:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-05-01T11:38:00: Update: internal model parameters
+Fixed Activity at 2024-05-01T20:48:00: Refactor: simplify data transformation pipeline
