@@ -45,3 +45,4 @@ Fixed Activity at 2024-05-10T13:52:00: Improve: logging and monitoring system
 Fixed Activity at 2024-05-10T12:59:00: Update: internal model parameters
 Fixed Activity at 2024-05-10T19:41:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-13T10:54:00: Style: improve code readability and formatting
+Fixed Activity at 2024-05-13T21:52:00: Chore: update dependencies and build scripts
