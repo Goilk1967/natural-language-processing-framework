@@ -114,3 +114,4 @@ Fixed Activity at 2024-05-31T12:32:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-05-31T19:34:00: Docs: update API documentation and examples
 Fixed Activity at 2024-05-31T14:49:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-31T12:21:00: Optimize: data loading strategy
+Fixed Activity at 2024-06-03T09:55:00: Fix: resolve memory leak in inference engine
