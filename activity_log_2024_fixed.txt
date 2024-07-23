@@ -290,3 +290,4 @@ Fixed Activity at 2024-07-23T15:01:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-07-23T10:42:00: Docs: update API documentation and examples
 Fixed Activity at 2024-07-23T11:55:00: Docs: update API documentation and examples
 Fixed Activity at 2024-07-23T11:50:00: Optimize: data loading strategy
+Fixed Activity at 2024-07-23T17:58:00: Docs: update API documentation and examples
