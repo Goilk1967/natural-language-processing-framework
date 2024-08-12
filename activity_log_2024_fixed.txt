@@ -346,3 +346,4 @@ Fixed Activity at 2024-08-09T14:54:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-08-09T18:27:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-09T10:31:00: Update: internal model parameters
 Fixed Activity at 2024-08-12T14:04:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-08-12T13:21:00: Refine: inference logic for edge devices
