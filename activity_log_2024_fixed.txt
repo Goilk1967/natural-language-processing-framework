@@ -508,3 +508,4 @@ Fixed Activity at 2024-09-30T11:58:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2024-09-30T10:05:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-09-30T10:33:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-09-30T10:11:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-09-30T21:55:00: Test: add unit tests for edge cases
