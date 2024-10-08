@@ -539,3 +539,4 @@ Fixed Activity at 2024-10-08T15:51:00: Update: internal model parameters
 Fixed Activity at 2024-10-08T12:21:00: Docs: update API documentation and examples
 Fixed Activity at 2024-10-08T21:01:00: Optimize: data loading strategy
 Fixed Activity at 2024-10-08T14:25:00: Test: add unit tests for edge cases
+Fixed Activity at 2024-10-08T16:21:00: Refine: inference logic for edge devices
