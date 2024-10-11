@@ -548,3 +548,4 @@ Fixed Activity at 2024-10-10T12:58:00: Optimize: data loading strategy
 Fixed Activity at 2024-10-10T17:17:00: Docs: update API documentation and examples
 Fixed Activity at 2024-10-10T20:36:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-10-10T10:46:00: Improve: logging and monitoring system
+Fixed Activity at 2024-10-11T09:38:00: Fix: resolve memory leak in inference engine
