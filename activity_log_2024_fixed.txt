@@ -610,3 +610,4 @@ Fixed Activity at 2024-10-28T10:46:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-10-29T14:13:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-10-29T16:18:00: Style: improve code readability and formatting
 Fixed Activity at 2024-10-29T09:43:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-10-29T20:38:00: Optimize: data loading strategy
