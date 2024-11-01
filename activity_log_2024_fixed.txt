@@ -622,3 +622,4 @@ Fixed Activity at 2024-10-31T13:28:00: Refactor: simplify data transformation pi
 Fixed Activity at 2024-10-31T21:04:00: Optimize: data loading strategy
 Fixed Activity at 2024-10-31T20:41:00: Optimize: data loading strategy
 Fixed Activity at 2024-11-01T12:38:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-11-01T18:04:00: Fix: resolve memory leak in inference engine
