@@ -732,3 +732,4 @@ Fixed Activity at 2024-12-03T17:27:00: Improve: logging and monitoring system
 Fixed Activity at 2024-12-03T14:54:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-12-03T11:28:00: Optimize: data loading strategy
 Fixed Activity at 2024-12-03T14:18:00: Optimize: data loading strategy
+Fixed Activity at 2024-12-03T15:01:00: Fix: resolve memory leak in inference engine
