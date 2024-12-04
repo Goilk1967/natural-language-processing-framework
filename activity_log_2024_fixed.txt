@@ -727,3 +727,4 @@ Fixed Activity at 2024-12-02T12:21:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-12-02T11:19:00: Update: internal model parameters
 Fixed Activity at 2024-12-03T09:50:00: Update: internal model parameters
 Fixed Activity at 2024-12-03T12:43:00: Improve: logging and monitoring system
+Fixed Activity at 2024-12-03T20:59:00: Refine: inference logic for edge devices
