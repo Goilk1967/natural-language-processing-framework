@@ -751,3 +751,4 @@ Fixed Activity at 2024-12-09T16:38:00: Style: improve code readability and forma
 Fixed Activity at 2024-12-10T11:29:00: Optimize: data loading strategy
 Fixed Activity at 2024-12-10T17:34:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-12-10T15:50:00: Test: add unit tests for edge cases
+Fixed Activity at 2024-12-10T18:01:00: Test: add unit tests for edge cases
