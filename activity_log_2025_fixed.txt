@@ -35,3 +35,4 @@ Fixed Activity at 2025-01-09T09:00:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-01-09T11:47:00: Improve: logging and monitoring system
 Fixed Activity at 2025-01-09T17:48:00: Docs: update API documentation and examples
 Fixed Activity at 2025-01-09T21:12:00: Improve: logging and monitoring system
+Fixed Activity at 2025-01-09T21:15:00: Fix: resolve memory leak in inference engine
