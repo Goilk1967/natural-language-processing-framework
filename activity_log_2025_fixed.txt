@@ -37,3 +37,4 @@ Fixed Activity at 2025-01-09T17:48:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-01-09T21:12:00: Improve: logging and monitoring system
 Fixed Activity at 2025-01-09T21:15:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-01-10T20:26:00: Chore: update dependencies and build scripts
+Fixed Activity at 2025-01-10T16:19:00: Fix: resolve memory leak in inference engine
