@@ -117,3 +117,4 @@ Fixed Activity at 2025-02-04T15:21:00: Feature: add support for distributed proc
 Fixed Activity at 2025-02-04T21:54:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-02-05T09:30:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-02-05T15:31:00: Refactor: optimize performance in core module
+Fixed Activity at 2025-02-05T17:09:00: Refactor: simplify data transformation pipeline
