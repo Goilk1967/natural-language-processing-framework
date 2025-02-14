@@ -152,3 +152,4 @@ Fixed Activity at 2025-02-13T12:05:00: Feature: add support for distributed proc
 Fixed Activity at 2025-02-14T19:15:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-02-14T20:37:00: Docs: update API documentation and examples
 Fixed Activity at 2025-02-14T16:18:00: Refactor: optimize performance in core module
+Fixed Activity at 2025-02-14T13:33:00: Fix: resolve memory leak in inference engine
