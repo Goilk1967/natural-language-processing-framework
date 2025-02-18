@@ -160,3 +160,4 @@ Fixed Activity at 2025-02-17T13:46:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-17T21:05:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-18T10:13:00: Update: internal model parameters
 Fixed Activity at 2025-02-18T15:38:00: Update: internal model parameters
+Fixed Activity at 2025-02-18T09:15:00: Refactor: simplify data transformation pipeline
