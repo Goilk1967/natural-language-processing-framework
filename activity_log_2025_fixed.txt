@@ -177,3 +177,4 @@ Fixed Activity at 2025-02-20T14:01:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-20T16:54:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-02-20T20:47:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-02-21T18:07:00: Update: internal model parameters
+Fixed Activity at 2025-02-21T09:40:00: Docs: update API documentation and examples
