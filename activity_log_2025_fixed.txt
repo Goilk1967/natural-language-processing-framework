@@ -338,3 +338,4 @@ Fixed Activity at 2025-04-04T20:07:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-04-07T15:21:00: Docs: update API documentation and examples
 Fixed Activity at 2025-04-07T21:03:00: Optimize: data loading strategy
 Fixed Activity at 2025-04-07T12:00:00: Update: internal model parameters
+Fixed Activity at 2025-04-08T18:24:00: Optimize: data loading strategy
