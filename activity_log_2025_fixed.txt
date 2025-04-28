@@ -415,3 +415,4 @@ Fixed Activity at 2025-04-25T21:01:00: Update: internal model parameters
 Fixed Activity at 2025-04-25T16:34:00: Style: improve code readability and formatting
 Fixed Activity at 2025-04-25T21:09:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-04-25T18:19:00: Optimize: data loading strategy
+Fixed Activity at 2025-04-28T16:37:00: Refactor: simplify data transformation pipeline
