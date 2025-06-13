@@ -576,3 +576,4 @@ Fixed Activity at 2025-06-13T12:57:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-06-13T12:25:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2025-06-13T19:21:00: Optimize: data loading strategy
 Fixed Activity at 2025-06-13T09:07:00: Optimize: data loading strategy
+Fixed Activity at 2025-06-13T18:59:00: Test: add unit tests for edge cases
