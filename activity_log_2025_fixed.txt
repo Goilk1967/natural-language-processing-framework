@@ -592,3 +592,4 @@ Fixed Activity at 2025-06-18T09:01:00: Optimize: data loading strategy
 Fixed Activity at 2025-06-18T14:11:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-06-18T21:54:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-06-18T20:27:00: Optimize: data loading strategy
+Fixed Activity at 2025-06-18T19:48:00: Refactor: optimize performance in core module
