@@ -605,3 +605,4 @@ Fixed Activity at 2025-06-20T15:47:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-06-20T20:16:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-06-23T13:41:00: Optimize: data loading strategy
 Fixed Activity at 2025-06-23T14:57:00: Improve: logging and monitoring system
+Fixed Activity at 2025-06-23T15:49:00: Refine: inference logic for edge devices
