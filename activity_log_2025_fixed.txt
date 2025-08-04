@@ -738,3 +738,4 @@ Fixed Activity at 2025-08-01T09:56:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-08-01T14:12:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-08-04T11:46:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-08-04T12:47:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-08-04T11:43:00: Docs: update API documentation and examples
