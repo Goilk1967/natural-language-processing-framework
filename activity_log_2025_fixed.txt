@@ -744,3 +744,4 @@ Fixed Activity at 2025-08-05T20:47:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-08-05T09:35:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-08-06T15:21:00: Update: internal model parameters
 Fixed Activity at 2025-08-06T20:21:00: Chore: update dependencies and build scripts
+Fixed Activity at 2025-08-06T15:12:00: Fix: resolve memory leak in inference engine
