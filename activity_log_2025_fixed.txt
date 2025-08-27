@@ -832,3 +832,4 @@ Fixed Activity at 2025-08-27T19:00:00: Style: improve code readability and forma
 Fixed Activity at 2025-08-27T13:09:00: Docs: update API documentation and examples
 Fixed Activity at 2025-08-27T13:04:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-08-27T17:35:00: Docs: update API documentation and examples
+Fixed Activity at 2025-08-27T17:03:00: Docs: update API documentation and examples
