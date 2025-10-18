@@ -1005,3 +1005,4 @@ Fixed Activity at 2025-10-17T10:32:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-10-17T11:29:00: Docs: update API documentation and examples
 Fixed Activity at 2025-10-17T16:37:00: Update: internal model parameters
 Fixed Activity at 2025-10-17T09:30:00: Optimize: data loading strategy
+Fixed Activity at 2025-10-17T21:14:00: Refine: inference logic for edge devices
